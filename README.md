@@ -9,7 +9,8 @@ High-Precision in decimals form (till 60 decimal places)
 ```
 \left(t\cdot\cos\left(0.5236\right)-e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.5236\right)+55,\ 42+t\cdot\sin\left(0.5236\right)+e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.5236\right)\right)
 ```
-
+# L1 Distance: 0.000002559805516
+# Cost = 1.8229979355460180500821020985711962136832e-08
 $$
 \begin{aligned}
 x &= t\cdot\cos\left(0.5236\right)-e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.5236\right)+55 \\
@@ -60,8 +61,8 @@ Y Coordinate Matches: 908  / 1500
 XY Combined Matches:  794  / 1500
 
 Root Mean Squared Error (RMSE): 2.5585151943215036e-06
-Residual Sum of Squares (Cost): 1.822997935546018e-08
-L1 Mean Absolute Error (MAE):   0.000002559805592
+Residual Sum of Squares (Cost): 1.822997935546018050082102098571196213683265341387595981359482e-08
+L1 Mean Absolute Error (MAE):  0.000002559805516  or 2.559805516e-06
 Resolved Curve Bound (t-domain): 6.049405 to 59.995170
 ```
 
@@ -124,6 +125,6 @@ Due to the highly multi-modal nature of harmonic sine-wave regressions, standard
 ## 3. Final Desmos / LaTeX Submission String
 
 Copy and paste the absolute parametric solution string below directly into Desmos for trajectory visualization:
-
-```text
-\left(t\cdot\cos\left(29.9999729321402668347218423150479793548583984375^{\circ}\right)-e^{0.0299999968730445439046849998021571082063019275665283203125\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(29.9999729321402668347218423150479793548583984375^{\circ}\right)+54.9999982127857265368220396339893341064453125,42+t\cdot\sin\left(29.9999729321402668347218423150479793548583984375^{\circ}\right)+e^{0.0299999968730445439046849998021571082063019275665283203125\left|t\right|}\cdot\sin\left(0.3t\right)\left.\cos\left(29.9999729321402668347218423150479793548583984375^{\circ}\right)\right)
+```  
+\left(t\cdot\cos\left(0.52359830504105429184918705359740209765275037604314\right)-e^{0.0299999968730445439046849998021571082063019275665\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.52359830504105429184918705359740209765275037604314\right)+54.9999982127857265368220396339893341064453125,42+t\cdot\sin\left(0.52359830504105429184918705359740209765275037604314\right)+e^{0.0299999968730445439046849998021571082063019275665\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.52359830504105429184918705359740209765275037604314\right)\right)
+```
