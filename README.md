@@ -11,6 +11,7 @@ High-Precision in decimals form (till 60 decimal places)
 ```
 # L1 Distance: 0.000002559805516
 # Cost = 1.8229979355460180500821020985711962e-08
+# RMS =  2.547024407625988e-06
 $$
 \begin{aligned}
 x &= t\cdot\cos\left(0.5236\right)-e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.5236\right)+55 \\
@@ -64,6 +65,7 @@ Root Mean Squared Error (RMSE): 2.5585151943215036e-06
 Residual Sum of Squares (Cost): 1.822997935546018050082102098571196213683265341387595981359482e-08
 L1 Mean Absolute Error (MAE):  0.000002559805516  or 2.559805516e-06
 Resolved Curve Bound (t-domain): 6.049405 to 59.995170
+RMS =  2.547024407625988e-06
 ```
 
 ## 🚀 Quick Start Guide (Google Colab)
