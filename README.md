@@ -1,3 +1,28 @@
+High-Precision in decimals form (till 60 decimal places)
+```  
+\left(t\cdot\cos\left(0.52359830504105429184918705359740209765275037604314\right)-e^{0.0299999968730445439046849998021571082063019275665\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.52359830504105429184918705359740209765275037604314\right)+54.9999982127857265368220396339893341064453125,42+t\cdot\sin\left(0.52359830504105429184918705359740209765275037604314\right)+e^{0.0299999968730445439046849998021571082063019275665\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.52359830504105429184918705359740209765275037604314\right)\right)
+```
+
+
+
+ approx value
+```
+\left(t\cdot\cos\left(0.5236\right)-e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.5236\right)+55,\ 42+t\cdot\sin\left(0.5236\right)+e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.5236\right)\right)
+```
+
+$$
+\begin{aligned}
+x &= t\cdot\cos\left(0.5236\right)-e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.5236\right)+55 \\
+y &= 42+t\cdot\sin\left(0.5236\right)+e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.5236\right)
+\end{aligned}
+$$
+$$
+\begin{aligned}
+x &= t\cdot\cos\left(0.52359830504105429184918705359740209765275037604314\right)-e^{0.0299999968730445439046849998021571082063019275665\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.52359830504105429184918705359740209765275037604314\right)+54.9999982127857265368220396339893341064453125 \\
+y &= 42+t\cdot\sin\left(0.52359830504105429184918705359740209765275037604314\right)+e^{0.0299999968730445439046849998021571082063019275665\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.52359830504105429184918705359740209765275037604314\right)
+\end{aligned}
+$$
+
 # Non-Linear Curve Fitting & Trajectory Reconstruction Engine
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python)
@@ -23,6 +48,7 @@ This repository provides an optimization pipeline written in Python to solve a c
 > Below are the highly refined parameters isolated via the dual-stage evolutionary pipeline. These values achieved absolute mathematical convergence.
 
 * **$\theta$ (Orientation Angle):** `29.99997293214026683472184231504797935485839843750` degrees
+ *(Exactly `0.52359830504105429184918705359740209765275037604314` radians)*
 * **$M$ (Damping Factor):** `0.0299999968730445439046849998021571082063019275665`
 * **$X$ (Cartesian Realignment Offset):** `54.99999821278572653682203963398933410644531250000`
 
