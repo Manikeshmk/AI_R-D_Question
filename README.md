@@ -10,7 +10,7 @@ High-Precision in decimals form (till 60 decimal places)
 \left(t\cdot\cos\left(0.5236\right)-e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.5236\right)+55,\ 42+t\cdot\sin\left(0.5236\right)+e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.5236\right)\right)
 ```
 # L1 Distance: 0.000002559805516
-# Cost = 1.8229979355460180500821020985711962136832e-08
+# Cost = 1.8229979355460180500821020985711962e-08
 $$
 \begin{aligned}
 x &= t\cdot\cos\left(0.5236\right)-e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.5236\right)+55 \\
@@ -128,3 +128,4 @@ Copy and paste the absolute parametric solution string below directly into Desmo
 ```  
 \left(t\cdot\cos\left(0.52359830504105429184918705359740209765275037604314\right)-e^{0.0299999968730445439046849998021571082063019275665\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.52359830504105429184918705359740209765275037604314\right)+54.9999982127857265368220396339893341064453125,42+t\cdot\sin\left(0.52359830504105429184918705359740209765275037604314\right)+e^{0.0299999968730445439046849998021571082063019275665\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.52359830504105429184918705359740209765275037604314\right)\right)
 ```
+# -- by Manikesh Kumar
