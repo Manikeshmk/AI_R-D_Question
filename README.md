@@ -131,3 +131,7 @@ Copy and paste the absolute parametric solution string below directly into Desmo
 \left(t\cdot\cos\left(0.52359830504105429184918705359740209765275037604314\right)-e^{0.0299999968730445439046849998021571082063019275665\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.52359830504105429184918705359740209765275037604314\right)+54.9999982127857265368220396339893341064453125,42+t\cdot\sin\left(0.52359830504105429184918705359740209765275037604314\right)+e^{0.0299999968730445439046849998021571082063019275665\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.52359830504105429184918705359740209765275037604314\right)\right)
 ```
 # -- by Manikesh Kumar
+![fit_reconstruction_diagnostic](output_files/least_squares_diagnostic_plots.png)
+![plot_error_along_t](output_files/plot_error_along_t.png)
+![precision_matching_diagnostics](output_files/precision_matching_diagnostics.png)
+![optimization_diagnostic_plots](output_files/optimization_diagnostic_plots.png)
