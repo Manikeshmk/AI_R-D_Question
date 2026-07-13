@@ -16,7 +16,7 @@ High-Precision in decimals form (till 60 decimal places)
 \left(t\cdot\cos\left(0.5236\right)-e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.5236\right)+55,\ 42+t\cdot\sin\left(0.5236\right)+e^{0.03\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.5236\right)\right)
 ```
 # L1 Distance: 0.000002559805516
-# Cost = 1.8229979355460180500821020985711962e-08
+# Cost = 1.822997935546018050082102098e-08
 # RMS =  2.547024407625988e-06
 $$
 \begin{aligned}
