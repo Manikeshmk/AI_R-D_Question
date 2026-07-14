@@ -4,12 +4,12 @@
 ![GitHub stars](https://img.shields.io/github/stars/Manikeshmk/AI_R-D_Question?style=logo&logo=github&label=⭐%20Stars) 
 ![GitHub forks](https://img.shields.io/github/forks/Manikeshmk/AI_R-D_Question?style=social)  
 
-Desmos LATEX form
+Desmos LATEX form ⭐
 ```  
 \left(t\cdot\cos\left(0.52359830444084520806313776120077818632125854492188\right)-e^{0.02999999717091086925968568266398506239056587219238\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.52359830444084520806313776120077818632125854492188\right)+54.99999835238169509921135613694787025451660156250000,42+t\cdot\sin\left(0.52359830444084520806313776120077818632125854492188\right)+e^{0.02999999717091086925968568266398506239056587219238\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.52359830444084520806313776120077818632125854492188\right)\right)
 ```
-Desmos Link: https://www.desmos.com/calculator/0xelzm1gqf
-# L1 Distance: 0.000002558709432056369272945676
+📌Desmos Link: https://www.desmos.com/calculator/0xelzm1gqf
+# ✅ L1 Distance: 0.000002558709432056369272945676 
 # Cost = 1.822997935546018050082102098e-08
 # RMS =  2.547024407625988e-06
 
@@ -40,20 +40,20 @@ This repository provides an optimization pipeline written in Python to solve a c
 ## 🎯 Target Optimization Results
 
 ### 📌 Integer Approximations (Quick Reference)
-| Parameter | Description | Rounded Integer Value |
+| Parameter | Description | Rounded Integer Value ⚠️ |
 | :--- | :--- | :--- |
 | **$\theta$** | Orientation Angle | **$30^{\circ}$** |
 | **$M$** | Damping Factor | **$0.03$** |
 | **$X$** | Cartesian Realignment Offset | **$55$** |
 
-### 🔬 High-Precision Global Equilibrium Minimum
+### 🔬 High-Precision Global Equilibrium Minimum ⭐
 > **Warning**  
 > Below are the highly refined parameters isolated via the dual-stage evolutionary pipeline. These values achieved absolute mathematical convergence.
 
 * **$\theta$ (Orientation Angle):** `29.99997293214026683472184231504797935485839843750` degrees
- *(Exactly `0.52359830444084520806313776120077818632125854492188` radians)*
-* **$M$ (Damping Factor):** `0.02999999717091086925968568266398506239056587219238`
-* **$X$ (Cartesian Realignment Offset):** `54.999998352381695099211356136947870254516601562500000000`
+ *(Exactly ⭐ `0.52359830444084520806313776120077818632125854492188` radians)*✅
+* **$M$ (Damping Factor):** ⭐ `0.02999999717091086925968568266398506239056587219238`✅
+* **$X$ (Cartesian Realignment Offset):**⭐ `54.999998352381695099211356136947870254516601562500000000`✅
 
 ### 📊 Verification Benchmarks & Diagnostics
 ```yaml
