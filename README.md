@@ -4,11 +4,11 @@
 ![GitHub stars](https://img.shields.io/github/stars/Manikeshmk/AI_R-D_Question?style=logo&logo=github&label=⭐%20Stars) 
 ![GitHub forks](https://img.shields.io/github/forks/Manikeshmk/AI_R-D_Question?style=social)  
 
-High-Precision in decimals form (till 60 decimal places)
+Desmos LATEX form
 ```  
 \left(t\cdot\cos\left(0.52359830444084520806313776120077818632125854492188\right)-e^{0.02999999717091086925968568266398506239056587219238\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.52359830444084520806313776120077818632125854492188\right)+54.99999835238169509921135613694787025451660156250000,42+t\cdot\sin\left(0.52359830444084520806313776120077818632125854492188\right)+e^{0.02999999717091086925968568266398506239056587219238\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.52359830444084520806313776120077818632125854492188\right)\right)
 ```
-
+Desmos Link: https://www.desmos.com/calculator/0xelzm1gqf
 # L1 Distance: 0.000002558709432056369272945676
 # Cost = 1.822997935546018050082102098e-08
 # RMS =  2.547024407625988e-06
